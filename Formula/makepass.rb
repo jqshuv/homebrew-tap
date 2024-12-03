@@ -6,8 +6,9 @@
 class Makepass < Formula
   desc "Simple command-line password generator"
   homepage "https://github.com/jqshuv/makepass"
-  url "https://registry.npmjs.org/makepass/-/makepass-1.1.1.tgz"
-  sha256 "ee1031e9af9886a99b496ad1739572fc592bfc364abafc13c20f97a58faafd0e"
+  version "1.1.1"
+  url "https://registry.npmjs.org/makepass/-/makepass-#{version}.tgz"
+  sha256 "5150e85b6ac58f4dfda4b14588619c2b3906ad0457d2526bfc73ac8b48f69870"
 
   depends_on "node"
 
