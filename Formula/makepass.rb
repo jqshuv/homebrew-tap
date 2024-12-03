@@ -3,7 +3,7 @@
 # This software is released under the MIT License.
 # https://opensource.org/licenses/MIT
 
-class MakePass < Formula
+class Makepass < Formula
   desc "Simple command-line password generator"
   homepage "https://github.com/jqshuv/makepass"
   url "https://registry.npmjs.org/makepass/-/makepass-1.1.1.tgz"
